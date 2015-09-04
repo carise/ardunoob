@@ -1,1 +1,1 @@
-![Alt](dir/doge.jpg)
+![Alt](doge.jpg)
